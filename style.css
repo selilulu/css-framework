@@ -1,0 +1,37 @@
+.card-text{
+
+    font-size: 13px;
+}
+
+
+.card-title{
+
+    font-size: 15px;
+}
+
+
+.card-img-top{
+    
+    width: 60%;
+    height: auto;
+    
+    
+}
+
+.image{
+
+   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+
+    min-height:300px;
+
+}
+
+
+
+
